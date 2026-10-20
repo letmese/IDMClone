@@ -1,0 +1,22 @@
+## Build and distribution
+dist/
+build/
+*.spec.bak
+*.exe
+*.dll
+
+## Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.venv/
+env/
+venv/
+ENV/
+
+## Logs and test files
+*.log
+test.idmc.json
+.vscode/
+.idea/
