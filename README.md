@@ -6,6 +6,7 @@
 ![Language](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![GUI](https://img.shields.io/badge/GUI-PySide6%20%2F%20Qt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
+[![Website Portfolio](https://img.shields.io/badge/Portfolio-letmese--portfolio.web.app-0066FF?style=for-the-badge&logo=google-cloud&logoColor=white)](https://letmese-portfolio.web.app)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact%20letmese-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923171616345?text=Hi%20letmese%2C%20I%20am%20interested%20in%20your%20IDMClone%20project.)
 
 ### *Modern Multi-Threaded Accelerated Download Manager for Windows*
@@ -90,6 +91,7 @@ To download the ready-to-run Windows standalone executable, check the releases:
 
 Developed and maintained by **letmese**.
 
+* **Website / Portfolio:** [**letmese-portfolio.web.app**](https://letmese-portfolio.web.app)
 * **GitHub Profile:** [@letmese](https://github.com/letmese)
 * **Location:** Lahore, Pakistan (Available for projects & consulting worldwide)
 * **WhatsApp Direct:** [**+92 317 1616345**](https://wa.me/923171616345?text=Hi%20letmese%2C%20I%20am%20interested%20in%20your%20IDMClone%20project.)
