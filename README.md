@@ -20,7 +20,20 @@
 
 ---
 
-## ✨ Feature Map & Technical Capabilities
+## 📸 Desktop Application Preview
+
+<div align="center">
+  <img src="screenshots/idm_clean.png" width="850" alt="IDMClone Main Interface & Download Queue" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="screenshots/idm_probe.png" width="420" alt="Socket Matrix & Chunk Visualizer" />
+  <img src="screenshots/idm_final.png" width="420" alt="Obsidian Cyber Theme & Telemetry HUD" />
+</div>
+
+---
 
 | Capability | Module | Details |
 | :--- | :--- | :--- |
